@@ -5,7 +5,7 @@ export default function Home() {
         <div className="bg-gray-800 p-9 flex">
           <div className="text-left">
             <p className="font-bold font-arial text-2xl text-white">
-              Techtack Connect{" "}
+              Techtack Connect
             </p>
           </div>
         </div>
