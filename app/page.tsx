@@ -13,7 +13,7 @@ export default function Home() {
           <br />
           <br />
           <header className="text-center p-9 pt-10 text-4xl">
-            <p className="text-gray-800 font-bold">
+            <p className="text-gray-800 text-3xl font-bold">
               Welcome to Techtack Connect
             </p>
             <br />
