@@ -94,7 +94,9 @@ export default function Home() {
                 </svg>
               </a>
             </div>
-            <p className="text-center mt-2">© 2024 Techtack Connect</p>
+            <p className="text-center mt-2">
+              © 2024 Techtack Connect. All Rights Reserved.
+            </p>
           </footer>
         </div>
       </div>
