@@ -2,14 +2,14 @@ export default function Home() {
   return (
     <div>
       <div>
-        <div className="bg-gray-800 p-9 flex">
-          <div className="text-left">
-            <p className="font-bold font-arial text-center text-2xl text-white">
+        <div className="bg-gray-800 p-9">
+          <div className="text-center">
+            <p className="font-bold font-arial text-4xl text-white">
               Techtack Connect
             </p>
           </div>
         </div>
-        <div className="bg-blue-600 p-9 pt-10">
+        <div className="bg-gray-900 p-9 pt-10">
           <p className="text-white font-sans font-bold text-center text-6xl">
             Idea. Software. Fast.
           </p>
