@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Techtack Connect | Home",
-  description: "Techtack-Technologies Platform",
+  description: "Techtack-Technologies Connect",
 };
 
 export default function RootLayout({
